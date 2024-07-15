@@ -1,8 +1,10 @@
+<!--
 - 👋 Hi, I’m @gaallmin
 - 👀 I’m interested in data science, and analyzing things
 - 🌱 I’m currently learning phython, C++structure, data analyzing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=200&section=header&text=Hello,%20I%20am%20Min%20%F0%9F%91%8B&fontSize=60&fontAlign=50&fontAlignY=38&fontColor=1B4F72"/>
 <h2 align="center">
