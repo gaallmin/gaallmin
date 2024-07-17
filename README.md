@@ -5,23 +5,98 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=200&section=header&text=Hello,%20I%20am%20Min%20%F0%9F%91%8B&fontSize=60&fontAlign=50&fontAlignY=38&fontColor=1B4F72" 
+    style="margin-bottom: -30px;" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=200&section=header&text=Hello,%20I%20am%20Min%20%F0%9F%91%8B&fontSize=60&fontAlign=50&fontAlignY=38&fontColor=1B4F72"/>
-<h2 align="center">
-  I am a Data Scientist 🖥 and a Tech Educator👩‍🏫
-</h2>
+<div align="center" style="margin-top: -50px;">
+  <a class="icon-link" href="Email:minjegal.ds@gmail.com">
+    <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="Email" width="75" height="auto" style="display: inline-block;"/>
+  </a>
+  <a class="icon-link" href="https://github.com/gaallmin/">
+    <img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" alt="GitHub" width="75" height="auto" style="display: inline-block;"/>
+  </a>
+  <a class="icon-link" href="https://www.linkedin.com/in/min-jegal-9507a4232/">
+    <img src="https://img.icons8.com/?size=100&id=108786&format=png&color=000000" alt="LinkedIn" width="75" height="auto" style="display: inline-block;"/>
+  </a>
+</div>
 
-I am eager to discover new insights from various data and passionate about lowering barriers to high technology 😊.
+<div align="center">
+  <h2 style="margin-top: -30px;"> 
+    I am a Data Scientist 🖥 and a Tech Educator👩‍🏫
+  </h2>
 
-### Connect With Me 
-[<img src="https://raw.githubusercontent.com/gaallmin/images/main/linkedin.png" height="40em" align="center"/>](https://www.linkedin.com/in/min-jegal-9507a4232/)
+  I am eager to discover new insights from various data and passionate about lowering barriers to high technology 😊. 
+  <br><br>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Company / Institution</th>
+      <th>Position</th>
+      <th>Period</th>
+    </tr>
+    <tr>
+      <td>AI Playground</td>
+      <td>Founder</td>
+      <td>July 2023 - Now</td>
+    </tr>
+    <tr>
+      <td>OUTTA</td>
+      <td>Chief Operative Officer</td>
+      <td>Jun 2022 - Now</td>
+    </tr>
+    <tr>
+      <td>OUTTA AI Bootcamp</td>
+      <td>Deep Learning Class Mentor</td>
+      <td>May 2023 - August 2023</td>
+    </tr>
+    <tr>
+      <td>Private Tutor</td>
+      <td>Python Private Tutor</td>
+      <td>March 2024 - Now</td>
+    </tr>
+    <tr>
+      <td>The Ankh</td>
+      <td>Data Analyst</td>
+      <td>June 2021 - June 2023</td>
+    </tr>
+    <tr>
+      <td>Brebuf College</td>
+      <td>Computer Science (Technology) <br> Department Intern Teacher</td>
+      <td>May 2023</td>
+    </tr>
+  </table>
+</div>
 
 
-### About Me
-- Majoring in Computer Education and Applied Mathematics at Konju National University in S.Korea, graduating in February,2025
-- Co-founded AI education NGO, OUTTA and AI Playground 🎈
-- Studied at Universidad Carlos III de Madrid (UC3M) Data Science and Engineering for a year as an exchange student 🇪🇸
+<h1>About Me</h1>
+<ul>
+  <li>👩‍🎓Majoring in Computer Education and Applied Mathematics at Konju National University in S.Korea, graduating in February, 2025</li>
+  <li>🎈Co-founded AI education NGO, OUTTA and AI Playground</li>
+  <li>🌍Studied at Universidad Carlos III de Madrid (UC3M) Data Science and Engineering for a year as an exchange student</li>
+  <li>👩‍💻Placed Second on the National Data Hackathon by the Ministry of Science and ICT of Korea</li>
+</ul>
+
+
+<h1>Tech Stack</h1>
+<h2>Currently Using</h2>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,r,sklearn,pytorch,mysql,gcp,figma&theme=light" alt="My Skills">
+</a>
+
+<h2>Foundational Knowledge</h2>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,html,css,c,flask,github,mongodb" alt="My Skills">
+</a>
+
+
   
+  
+
+    
 
 
 
