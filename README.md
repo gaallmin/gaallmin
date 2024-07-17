@@ -71,8 +71,9 @@
   </table>
 </div>
 
+<img src="https://github.com/gaallmin/Profile-Static/blob/main/handshaking.gif" alt="Handshaking GIF" style="width: 50px; height: auto; ">
 
-<h1>About Me</h1>
+# About me
 <ul>
   <li>👩‍🎓Majoring in Computer Education and Applied Mathematics at Konju National University in S.Korea, graduating in February, 2025</li>
   <li>🎈Co-founded AI education NGO, OUTTA and AI Playground</li>
@@ -80,8 +81,11 @@
   <li>👩‍💻Placed Second on the National Data Hackathon by the Ministry of Science and ICT of Korea</li>
 </ul>
 
+<br><br>
 
-<h1>Tech Stack</h1>
+<img src="https://github.com/gaallmin/Profile-Static/blob/main/tech.gif" alt="Tech GIF" style="width: 60px; height: auto;">
+
+# Tech Stack
 <h2>Currently Using</h2>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py,r,sklearn,pytorch,mysql,gcp,figma&theme=light" alt="My Skills">
