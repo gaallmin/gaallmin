@@ -41,12 +41,12 @@
     <tr>
       <td>AI Playground</td>
       <td>Founder</td>
-      <td>July 2023 - Now</td>
+      <td>Feb 2024 - Jul 2025</td>
     </tr>
     <tr>
       <td>OUTTA</td>
       <td>Chief Operative Officer</td>
-      <td>Jun 2022 - Now</td>
+      <td>Jun 2022 - Aug 2024</td>
     </tr>
     <tr>
       <td>OUTTA AI Bootcamp</td>
@@ -56,7 +56,7 @@
     <tr>
       <td>Private Tutor</td>
       <td>Python Private Tutor</td>
-      <td>March 2024 - Now</td>
+      <td>Feb 2023 - Now</td>
     </tr>
     <tr>
       <td>The Ankh</td>
@@ -75,7 +75,7 @@
 
 # About me
 <ul>
-  <li>👩‍🎓Majoring in Computer Education and Applied Mathematics at Konju National University in S.Korea, graduating in February, 2025</li>
+  <li>👩‍🎓Data & Computational Science MSc @ UCD (Graduating 2026) | BSc Computer Education & Applied Mathematics</li>
   <li>🎈Co-founded AI education NGO, OUTTA and AI Playground</li>
   <li>🌍Studied at Universidad Carlos III de Madrid (UC3M) Data Science and Engineering for a year as an exchange student</li>
   <li>👩‍💻Placed Second on the National Data Hackathon by the Ministry of Science and ICT of Korea</li>
